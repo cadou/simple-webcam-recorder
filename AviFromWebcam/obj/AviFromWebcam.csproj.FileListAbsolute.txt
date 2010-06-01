@@ -1,0 +1,14 @@
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\obj\Debug\ResolveAssemblyReference.cache
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\obj\Debug\AviFromWebcam.Form1.resources
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\obj\Debug\AviFromWebcam.Properties.Resources.resources
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\obj\Debug\AviFromWebcam.csproj.GenerateResource.Cache
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AviFromWebcam.exe
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AviFromWebcam.pdb
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AForge.dll
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AForge.Imaging.dll
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AForge.Video.DirectShow.dll
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AForge.Video.dll
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AForge.Math.dll
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\obj\Debug\AviFromWebcam.exe
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\obj\Debug\AviFromWebcam.pdb
+G:\Pieces\C#\AviFromWebcam\AviFromWebcam\bin\Debug\AForge.Video.VFW.dll
